@@ -1,0 +1,11 @@
+{
+  "host": "0.0.0.0",
+  "port": 8990,
+  "apiKey": "sk-kiro-rs-your-api-key-here",
+  "adminApiKey": "sk-admin-your-secret",
+  "tlsBackend": "rustls",
+  "region": "us-east-1",
+  "defaultEndpoint": "ide",
+  "loadBalancingMode": "priority",
+  "extractThinking": true
+}
